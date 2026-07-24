@@ -1,0 +1,17 @@
+# Build & dev tooling — kept locally, intentionally not part of the published site
+.report-template.html
+build.py
+extract.py
+qa.py
+render.sh
+screenshot.js
+build.sh
+.workflow-output.json
+shots/
+
+# Python / OS cruft
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+node_modules/
