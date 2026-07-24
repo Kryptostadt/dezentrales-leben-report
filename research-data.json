@@ -14538,31 +14538,36 @@
 "year": "2021",
 "amount": "~$87M+ (illustrative ReFi subset)",
 "source": "CoinGecko/ReFi DAO; Flowcarbon (https://www.coingecko.com/learn/what-is-regenerative-finance-refi-crypto)",
-"note": "Entstehen von ReFi: KlimaDAO ~$17M (2021) + Flowcarbon $70M (angekündigt 2022, ReFi-Ära). DePIN-/Urban-DAO-Finanzierung wird noch nicht separat erfasst. Die Zahlen sind eine partielle, illustrative Teilmenge, keine Sektor-Gesamtsumme."
+"note": "Entstehen von ReFi: KlimaDAO ~$17M (2021) + Flowcarbon $70M (angekündigt 2022, ReFi-Ära). DePIN-/Urban-DAO-Finanzierung wird noch nicht separat erfasst. Die Zahlen sind eine partielle, illustrative Teilmenge, keine Sektor-Gesamtsumme.",
+"valueUsdM": 87
 },
 {
 "year": "2022",
 "amount": "ReFi: tens of millions across 60+ projects; DePIN: category just named",
 "source": "ReFi DAO; Messari (https://www.xcritical.com/blog/regenerative-finance-a-guide-to-crypto-refi/)",
-"note": "ReFi DAO verfolgte 60+ Projekte weltweit; die $70M-Kapitalaufnahme von Flowcarbon war eine ReFi-Schlagzeilenrunde. Für 2022 wurde keine konsolidierte DePIN-/Urban-DAO-Finanzierungssumme veröffentlicht – als qualitative Angabe zu behandeln."
+"note": "ReFi DAO verfolgte 60+ Projekte weltweit; die $70M-Kapitalaufnahme von Flowcarbon war eine ReFi-Schlagzeilenrunde. Für 2022 wurde keine konsolidierte DePIN-/Urban-DAO-Finanzierungssumme veröffentlicht – als qualitative Angabe zu behandeln.",
+"valueUsdM": 70
 },
 {
 "year": "2023",
 "amount": "DePIN early-stage ~$59-89M (implied baseline)",
 "source": "Messari State of DePIN 2024 (https://messari.io/report/state-of-depin-2024)",
-"note": "Abgeleitet aus Messaris Bericht, wonach die DePIN-Frühphasenfinanzierung 2024 im Jahresvergleich um ~296-326% gegenüber 2023 wuchs; die Basis von 2023 entspricht demnach etwa einem Viertel der ~$246-350 Mio. von 2024. Abgeleitet/geschätzt, keine direkt berichtete Zahl."
+"note": "Abgeleitet aus Messaris Bericht, wonach die DePIN-Frühphasenfinanzierung 2024 im Jahresvergleich um ~296-326% gegenüber 2023 wuchs; die Basis von 2023 entspricht demnach etwa einem Viertel der ~$246-350 Mio. von 2024. Abgeleitet/geschätzt, keine direkt berichtete Zahl.",
+"valueUsdM": 74
 },
 {
 "year": "2024",
 "amount": "DePIN ~$350M+ early-stage (+ ~$230M via node sales/crowdfunding)",
 "source": "Messari State of DePIN 2024; crypto.news (https://crypto.news/depin-early-stage-fundraising-has-grown-296-yoy-messari/)",
-"note": "DePIN warb 2024 $350M+ über Pre-Seed/Seed/Series A ein (Compute/Energie/Daten >$266M); +296-326% gegenüber dem Vorjahr. ~$230M zusätzlich über Node-Verkäufe, Crowdfunding, protokolleigene Liquidität. Marktkapitalisierung des Sektors ~$50B; 13M+ Geräte."
+"note": "DePIN warb 2024 $350M+ über Pre-Seed/Seed/Series A ein (Compute/Energie/Daten >$266M); +296-326% gegenüber dem Vorjahr. ~$230M zusätzlich über Node-Verkäufe, Crowdfunding, protokolleigene Liquidität. Marktkapitalisierung des Sektors ~$50B; 13M+ Geräte.",
+"valueUsdM": 350
 },
 {
 "year": "2025",
 "amount": "DePIN ~$1B across 91 rounds (cumulative VC >$1B since 2023)",
 "source": "Messari 2025 DePIN data; The Block Pro Research; KuCoin (https://www.kucoin.com/blog/en-depin-crypto-sector-2026-how-decentralized-physical-infrastructure-surpassed-oracles)",
-"note": "DePIN warb 2025 laut Messari ~$1B über 91 Runden ein. The Block Pro: $744M+ über 165+ Startups Januar 2024-Juli 2025 plus 89 nicht offengelegte Deals. Entree Capital legte einen $300M DePIN/KI-Fonds auf (Dezember 2025). Die gemeldeten Zahlen variieren je nach Methodik."
+"note": "DePIN warb 2025 laut Messari ~$1B über 91 Runden ein. The Block Pro: $744M+ über 165+ Startups Januar 2024-Juli 2025 plus 89 nicht offengelegte Deals. Entree Capital legte einen $300M DePIN/KI-Fonds auf (Dezember 2025). Die gemeldeten Zahlen variieren je nach Methodik.",
+"valueUsdM": 1000
 }
 ]
 },
